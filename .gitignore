@@ -1,0 +1,9 @@
+# Ignore environment variables file
+.env
+
+# Ignore Python virtual environment
+.venv/
+
+# Ignore dataset folder
+Brain_tumor_dataset/
+classification_model.h5

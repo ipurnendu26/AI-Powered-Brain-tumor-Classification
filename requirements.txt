@@ -1,0 +1,7 @@
+tensorflow
+numpy
+opencv-python
+streamlit
+Pillow
+langchain
+openai
